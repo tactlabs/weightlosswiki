@@ -1,11 +1,10 @@
-# SIN (Social INjustice) Wiki
+# Weight Loss Wiki
 
 Description
 
 ## Category :
 
-  * [Breast Tax](breast-tax.md)
-  * [Self Respect](self-respect-movement.md)
+  * [Smoothies](breast-tax.md)
 
 
 
