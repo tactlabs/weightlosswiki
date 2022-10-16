@@ -1,11 +1,5 @@
 / [Home](index.md)
 
-# Smoothies
+### Smoothies :
 
-## 
-
-
-
-### Ref :
-
-  * [ ABC](abc)
+  * [smoothie-1](smoothie-1.md)

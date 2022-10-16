@@ -4,7 +4,7 @@ Description
 
 ## Category :
 
-  * [Smoothies](breast-tax.md)
+  * [Smoothies](smoothies.md)
 
 
 
