@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-### Smoothie 1 :
+### Smoothie 2 :
 
 Ingredients
 ```
